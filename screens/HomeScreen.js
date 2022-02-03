@@ -23,6 +23,7 @@ const HomeScreen = () => {
 
 //This is a change. 
 //this is another change
+//change number 2
 export default HomeScreen
 
 const styles = StyleSheet.create({
